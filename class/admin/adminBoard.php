@@ -7,36 +7,15 @@ class adminBoard extends Controller_Admin
     {
 
         
-       /*   $aBoardList = $this->Openapi->call(
-                'board'
-                ,'list'
-                ,array(
-                        'board_no'=>1,
-                        'search_date'=>"month12"
-                ));
-  */
-        
-         /* $aproduct=$this->Openapi->call(
-                 'product',
-                 'detail',
-                 array('product_no'=>'2')
-                 );
-          */
-        
-        /* $aProductData = $this->Openapi->call(
-                'product','detail',array('product_no'=>"14"));
-         */
-        
+  
+         
         // list example 
          /* $aProductData=$this->Openapi->call
                  (
                  'product','new',array()
                  ); */
         
-        //var_dump($aProductData);
-        
-        
-        
+    
         //board_list example 
         /*   $aBoardList = $this->Openapi->call
                 (
@@ -74,7 +53,7 @@ class adminBoard extends Controller_Admin
                         'no'=>18
                 )); */
         
-        // board_delet example 
+        // board_delete example 
    /*      $aBoardList = $this->Openapi->call
                (
                 'board'
