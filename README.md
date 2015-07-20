@@ -9,6 +9,11 @@ https://github.com/SimplexInternet/Cstore 에 접속  -> class 폴더 -> admin �
 </BR>
 테스트 적용 주소 :</BR>
 http://test005.app-sdk-003.cafe24.com/admin/board
+
+</BR>
+테스트 확인 주소:</BR>
+개발자센터 로그인 -> MY개발자 센터 -> MY앱 개발 -> 기본정보 -> 오른쪽 창 서비스도메인 목록의 주소 
+
 <BR>
 <h2><a id="user-content-test-environment" class="anchor" href="#test-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Test environment</h2>
 
