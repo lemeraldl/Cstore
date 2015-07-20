@@ -9,7 +9,7 @@ class adminBoard extends Controller_Admin
         
   
          
-        // list example 
+        //board_list example 
          /* $aProductData=$this->Openapi->call
                  (
                  'product','new',array()
