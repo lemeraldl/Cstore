@@ -1,0 +1,180 @@
+
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,img
+    {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,code {
+    font-size: 0.75em;
+    color: #333;
+    background: #fff;
+}
+
+li {
+    list-style: none;
+}
+
+img,fieldset {
+    border: none;
+    vertical-align: top;
+}
+
+input,select,textarea {
+    font-size: 100%;
+    color: #767676;
+    vertical-align: middle;
+}
+
+hr.layout {
+    display: none;
+}
+
+a,a:link,a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+table {
+    border-spacing: 0;
+    border: 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,td {
+    border: 0;
+    vertical-align: top;
+}
+
+legend {
+    height: 0;
+    width: 0;
+    display: block;
+    text-indent: -9999em;
+}
+
+caption {
+    visibility: hidden;
+    position: absolute;
+    left: -1000px;
+    top: -1000px;
+    height: 0;
+    width: 0;
+    display: none;
+}
+
+button {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    cursor: pointer;
+    overflow: visible;
+}
+
+.displaynone {
+    display: none !important;
+}
+
+.xans-앱아이디-display .slider-wrap {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    padding: 19px 0 18px 0;
+    border: 1px solid #e3e3e3;
+}
+
+.xans-앱아이디-display .jQ_wrap {
+    padding: 0 55px;
+}
+
+.xans-앱아이디-display .jQ_ptLst {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+
+.xans-앱아이디-display .slider-list {
+    overflow: hidden;
+    width: 9999en;
+}
+
+.xans-앱아이디-display .slider-list li {
+    float: left;
+    text-align: center;
+}
+
+.xans-앱아이디-display .slider-list span {
+    display: block;
+    margin: 13px 0 0 0;
+    color: #838382;
+}
+
+.xans-앱아이디-display .slider-list strong {
+    display: block;
+    margin: 4px 0 0 0;
+    font-size: 11px;
+    color: #66676b;
+}
+
+.xans-앱아이디-display .slider-remote {
+    
+}
+
+.xans-앱아이디-display .slider-remote button {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    width: 18px;
+    height: 74px;
+    margin: -37px 0 0;
+    background:
+        url("http://img.echosting.cafe24.com/apps/product-slider/skin3/sfix_btn.png")
+        0 0 no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+}
+
+.xans-앱아이디-display .slider-remote .prev {
+    left: 20px;
+    background-position: 0 0;
+}
+
+.xans-앱아이디-display .slider-remote .prev:hover,.xans-앱아이디-display .slider-remote .prev.selected
+    {
+    background-position: 0 -84px;
+}
+
+.xans-앱아이디-display .slider-remote .prev.disabled {
+    background-position: 0 0;
+    cursor: default;
+}
+
+.xans-앱아이디-display .slider-remote .next {
+    right: 20px;
+    background-position: -28px 0;
+}
+
+.xans-앱아이디-display .slider-remote .next:hover,.xans-앱아이디-display .slider-remote .next.selected
+    {
+    background-position: -28px -84px;
+}
+
+.xans-앱아이디-display .slider-remote .next.disabled {
+    background-position: -28px 0;
+    cursor: default;
+}
