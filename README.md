@@ -3,12 +3,12 @@
 
 EX) APPID = test005 생성 </BR>
 
-*해당파일 LOCATION:</BR>
+해당파일 LOCATION:</BR>
 https://github.com/SimplexInternet/Cstore 에 접속  -> class 폴더 -> admin 폴더 -> adminBoard.php  파일 
 </BR>
 </BR>
-
-테스트 적용 주소 : http://test005.app-sdk-003.cafe24.com/admin/board
+테스트 적용 주소 :</BR>
+http://test005.app-sdk-003.cafe24.com/admin/board
 <BR>
 소스 설명
 
