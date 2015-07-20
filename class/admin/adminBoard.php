@@ -6,9 +6,6 @@ class adminBoard extends Controller_Admin
     protected function run($aArgs)
     {
 
-        
-  
-         
         //board_list example 
          /* $aProductData=$this->Openapi->call
                  (
