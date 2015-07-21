@@ -33,7 +33,7 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 <h2><a id="user-content-test-environment" class="anchor" href="#test-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Source explanation</h2>
 
 <ul> 
-<li>해당 예제는 테스트 서버에서 자유계시판인 board_no=5 로 테스트 실시
+<li>해당 예제는 테스트 서버에서 자유계시판인 board_no=5 에서 테스트 실시
 <ul>
 <li>CREATE(write)</li>
 <li>READ</li>
