@@ -57,59 +57,59 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 </thead><tbody>
 <tr>
 <td>board_no</td>
-<td>배포</td>
+<td>계시판번호</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 <tr>
 <td>subject</td>
-<td>배포</td>
+<td>글제목</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 <tr>
 <td>content</a></td>
-<td>배포</td>
+<td>글내용</td>
 <td>15 .07 .21</td>
 <td>이상욱 </td>
 </tr>
 <tr>
 <td>writer</td>
-<td>배포</td>
+<td>작성자</td>
 <td>15 .07 .21</td>
 <td>이상욱 </td>
 </tr>
 <tr>
 <td>email1</td>
-<td>최초개발</td>
+<td>이메일주소</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 
 <tr>
 <td>email2</td>
-<td>최초개발</td>
+<td>이메일주소</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 
 <tr>
 <td>passwd</td>
-<td>최초개발</td>
+<td>비밀번호</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 
 <tr>
 <td>no</td>
-<td>최초개발</td>
+<td>글번호</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
 
 <tr>
 <td>search_date</td>
-<td>최초개발</td>
+<td>검색기간</td>
 <td>15 .07 .21</td>
 <td>이상욱</td>
 </tr>
