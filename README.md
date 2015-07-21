@@ -52,7 +52,7 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 <th>Culumn</th>
 <th>Description</th>
 <th>Date</th>
-<th>Developer</th>
+<th>Writer</th>
 </tr>
 </thead><tbody>
 <tr>
