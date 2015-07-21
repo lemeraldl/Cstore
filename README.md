@@ -32,8 +32,6 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 
 <h2><a id="user-content-test-environment" class="anchor" href="#test-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Source explanation</h2>
 <ul>
-<li>PC
-
 <ul>
 <li>CREATE</li>
 <li>READ</li>
