@@ -107,6 +107,13 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 <td>박순영</td>
 </tr>
 
+<tr>
+<td>search_date</td>
+<td>최초개발</td>
+<td>2014.11</td>
+<td>박순영</td>
+</tr>
+
 
 
 </tbody></table>
