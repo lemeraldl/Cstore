@@ -32,6 +32,20 @@ class adminBoard extends Controller_Admin
                         'board_no'=>5,
                         'no'=>18
                 )); */
+                
+                
+         // board_update example 
+       /*  $aBoardList = $this->Openapi->call
+                      (
+                'board'
+                ,'update'
+                ,array(
+                        'board_no'=>5,
+                        'no'=>14,
+                        'passwd'=>1111 ,
+                         'subject'=>'bvnbn'
+                )
+                ,'POST'); */
         
         // board_delete example 
    /*      $aBoardList = $this->Openapi->call
@@ -46,19 +60,6 @@ class adminBoard extends Controller_Admin
                 )
                 ,'POST'); */
        
-    
-        // board_update example 
-       /*  $aBoardList = $this->Openapi->call
-                      (
-                'board'
-                ,'update'
-                ,array(
-                        'board_no'=>5,
-                        'no'=>14,
-                        'passwd'=>1111 ,
-                         'subject'=>'bvnbn'
-                )
-                ,'POST'); */
         
           //board_list example 
         /*   $aBoardList = $this->Openapi->call
