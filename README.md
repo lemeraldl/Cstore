@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-application-grid" class="anchor" href="#application-grid" aria-hidden="true"><span class="octicon octicon-link"></span></a>Cstore Board CRUD</h1>
 
 
-EX) APPID = test005 생성 </BR>
+ 해당 예제는 EX) APPID = test005 생성 시 </BR>
 
 해당파일 LOCATION:</BR>
 https://github.com/SimplexInternet/Cstore 에 접속  -> class 폴더 -> admin 폴더 -> adminBoard.php  파일 
