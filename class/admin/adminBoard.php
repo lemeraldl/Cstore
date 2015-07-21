@@ -7,18 +7,6 @@ class adminBoard extends Controller_Admin
     {
 
      
-    
-        //board_list example 
-        /*   $aBoardList = $this->Openapi->call
-                (
-                'board'
-                ,'list'
-                ,array(
-                        'board_no'=>5,
-                        'search_date'=>"month12"
-                ));
-        */
-        
          //board_create example 
         /* $aBoardList = $this->Openapi->call
                       (
@@ -72,6 +60,16 @@ class adminBoard extends Controller_Admin
                 )
                 ,'POST'); */
         
+          //board_list example 
+        /*   $aBoardList = $this->Openapi->call
+                (
+                'board'
+                ,'list'
+                ,array(
+                        'board_no'=>5,
+                        'search_date'=>"month12"
+                ));
+        */
         
         //board_detail example 
         $aBoardList = $this->Openapi->call
