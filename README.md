@@ -36,11 +36,11 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 <li>해당 예제는 테스트 서버에서 자유계시판인 board_no=5 에서 테스트 실시
 <ul>
 <li>CREATE(write)- 계시판에 글을 쓰는 부분 입니다. POST방식 예제의 컬럼들을 다 기재 해줘야 합니다</li>
-<li>READ-계시판의 글을 조회하는 부분 입니다</li>
+<li>READ- 계시판의 글을 조회하는 부분 입니다</li>
 <li>UPDATE- 계시판의 존재하는 글을 수정하는 부분 입니다. POST방식 예제에서는 제목(subject)을 수정 , pw 필요 </li>
-<li>DELETE</li>
-<li>LIST</li>
-<li>Detail</li>
+<li>DELETE- 계시판의 존재하는 글을 삭제하는 분분 입니다. POST방식 pw 필요  </li>
+<li>LIST- 계시판의 글 리스트를 보는 부분입니다.</li>
+<li>Detail- 계시판의 정보를 볼 수 있습니다. 예제에서는 자유계시판의 정보를 볼 수 있습니다.</li>
 </ul></li>
 </ul>
 
