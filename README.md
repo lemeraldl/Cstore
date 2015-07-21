@@ -35,11 +35,12 @@ http://test005.app-sdk-003.cafe24.com/admin/board
 <li>PC
 
 <ul>
-<li>ECLIPSE INDIGO 3.7.2</li>
-<li>jdk 1.8</li>
-<li>IE7~11</li>
-<li>Chrome</li>
-<li>Firefox</li>
+<li>CREATE</li>
+<li>READ</li>
+<li>UPDATE</li>
+<li>DELETE</li>
+<li>LIST</li>
+<li>Detail</li>
 </ul></li>
 </ul>
 
