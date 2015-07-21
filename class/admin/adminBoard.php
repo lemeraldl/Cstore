@@ -6,12 +6,7 @@ class adminBoard extends Controller_Admin
     protected function run($aArgs)
     {
 
-        //board_list example 
-         /* $aProductData=$this->Openapi->call
-                 (
-                 'product','new',array()
-                 ); */
-        
+     
     
         //board_list example 
         /*   $aBoardList = $this->Openapi->call
@@ -19,7 +14,7 @@ class adminBoard extends Controller_Admin
                 'board'
                 ,'list'
                 ,array(
-                        'board_no'=>1,
+                        'board_no'=>5,
                         'search_date'=>"month12"
                 ));
         */
